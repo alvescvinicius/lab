@@ -32,3 +32,8 @@ ng new angular-material-template
 
 - Escolher SCSS
 
+git add .
+
+git commit -m "Criação do projeto angular-material-template."
+
+git push origin angular-material-template
